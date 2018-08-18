@@ -1,2 +1,2 @@
 # gittest
-fooling aroung
+fooling around
